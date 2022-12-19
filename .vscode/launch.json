@@ -1,0 +1,6 @@
+{
+  "name": "acorn 插件",
+  "program": "${workspaceFolder}/exercize-acorn-plugin-guang-keyword/src/index.js",
+  "request": "launch",
+  "type": "node"
+}
